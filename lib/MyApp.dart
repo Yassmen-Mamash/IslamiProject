@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo Session 5 ',
+      title: 'Flutter Demo Session 5222 ',
       routes: {HomeSecrren.routeName: (_) => HomeSecrren()},
       initialRoute: HomeSecrren.routeName,
     );
